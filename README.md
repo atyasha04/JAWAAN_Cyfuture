@@ -7,12 +7,13 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 ---
 
+
 ## 🚀 Key Features  
 
 ### 🔍 1️⃣ SURVEILLANCE - AI-Powered Monitoring 👁️🚁  
 👉 *Drone-based Monitoring:* Advanced cameras & sensors for *24/7 surveillance*.  
 👉 *Real-time Audio & Video Analysis:* Detects suspicious activity using *AI-powered keyword & object recognition*.  
-👉 *Optimized Path Planning:* A* algorithm ensures *maximum coverage with minimal resources*.  
+👉 *Optimized Path Planning:* A* algorithm ensures *maximum coverage with minimal resources*. 
 
 ---
 
@@ -20,6 +21,15 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 👉 *Autonomous Drone Navigation:* Optimizes patrol routes for *maximum efficiency*.  
 👉 *Dynamic Obstacle Avoidance:* AI-driven path recalibration in real-time.  
 👉 *Resource Allocation:* Smart distribution of surveillance assets.  
+
+---
+### 💓 5️⃣ HEALTH – Real-Time Soldier Vital Monitoring 🩺  
+
+👉 **Continuous Health Tracking**: Records heart rate, temperature, oxygen levels, and stress indicators from IoT wearables.  
+
+👉 **Automated Emergency Alerts**: Triggers SOS notifications when vitals cross critical thresholds.  
+
+👉 **Integrated Health Dashboard**: Provides commanders with live and historical health data for proactive medical support.  
 
 ---
 
