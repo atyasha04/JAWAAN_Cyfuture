@@ -22,14 +22,6 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 👉 *Dynamic Obstacle Avoidance:* AI-driven path recalibration in real-time.  
 👉 *Resource Allocation:* Smart distribution of surveillance assets.  
 
----
-### 💓 5️⃣ HEALTH – Real-Time Soldier Vital Monitoring 🩺  
-
-👉 **Continuous Health Tracking**: Records heart rate, temperature, oxygen levels, and stress indicators from IoT wearables.  
-
-👉 **Automated Emergency Alerts**: Triggers SOS notifications when vitals cross critical thresholds.  
-
-👉 **Integrated Health Dashboard**: Provides commanders with live and historical health data for proactive medical support.  
 
 ---
 
@@ -46,6 +38,15 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 👉 *Instant SOS Alerts:* Soldiers can trigger emergency signals *with location & custom messages*.  
 👉 *Centralized Command Dashboard:* Commanders see *active alerts & respond immediately*.  
 👉 *Rapid Medical & Tactical Support:* Ensures *quick allocation of resources*.  
+
+---
+### 💓 5️⃣ HEALTH – Real-Time Soldier Vital Monitoring 🩺  
+
+👉 **Continuous Health Tracking**: Records heart rate, temperature, oxygen levels, and stress indicators from IoT wearables.  
+
+👉 **Automated Emergency Alerts**: Triggers SOS notifications when vitals cross critical thresholds.  
+
+👉 **Integrated Health Dashboard**: Provides commanders with live and historical health data for proactive medical support.  
 
 ---
 
